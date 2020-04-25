@@ -75,16 +75,20 @@ body {
   #q2 {
     margin-top: 350px;
   }
+
   #q3 {
     margin-top: 360px;
   }
+
   #Bio {
     padding: 30px;
   }
+
   #Achievements {
     padding: 0px 0px 0px 30px;
     margin-top: 100px;
   }
+
   #Experience {
     padding: 0px 0px 0px 30px;
     margin-top: 0px;
@@ -93,9 +97,6 @@ body {
   #Training {
     padding: 0px 0px 0px 30px;
     }
-  
-  
-  
   
   h2 {
     font-size: 26px;
@@ -144,6 +145,7 @@ body {
     height: 5px;
     background: #222;
   }
+
   /* első rész eddig*/
   blockquote:hover {
     color: blue;
